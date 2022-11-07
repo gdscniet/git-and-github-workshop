@@ -26,7 +26,15 @@
       "twitter": "https://twitter.com/chiragsingh9099",
       "linkedin": "https://www.linkedin.com/in/chirag-singh09/",
       "instagram": "https://www.instagram.com/_chirag.singh._/",
-      
+     }
+   },
+   {
+    "name": "Dilip Kumar",
+    "github_handle": "dilip0273",
+    "socials": {
+      "twitter": "https://twitter.com/dilip_0273",
+      "linkedin": "https://www.linkedin.com/in/dilip0273",
+      "instagram": "https://www.instagram.com/dilip_0273/"
     }
    }
 ]
